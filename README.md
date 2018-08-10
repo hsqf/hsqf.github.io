@@ -1,2 +1,0 @@
-# hsqf.github.io
-blog
